@@ -1,4 +1,4 @@
-JSH (Shell)
+# JSH (Shell)
 
 CS360: Systems Programming
 
@@ -14,5 +14,5 @@ was used to learn about processes, file redirection, and pipes.
 Usage:
 ------
 
-  ./jsh
+      ./jsh
 
