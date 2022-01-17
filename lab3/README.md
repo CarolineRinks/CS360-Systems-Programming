@@ -1,4 +1,4 @@
-# Lab3
+# Lab3 (fakemake)
 
 CS360: Systems Programming
 
