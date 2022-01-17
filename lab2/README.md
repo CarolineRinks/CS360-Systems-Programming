@@ -18,4 +18,8 @@ associated with that machine are printed.
 Usage
 -----
 
+      ./l2p1
       
+      ./l2p2
+      
+      ./l2p3
