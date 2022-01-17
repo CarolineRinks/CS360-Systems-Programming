@@ -1,17 +1,11 @@
-/*	Caroline Rinks
- *	Lab 3 (Fakemake)
+/*  Caroline Rinks
+ *  Lab 3 (Fakemake)
  *  CS360 Fall 2021
  *  
  *  This lab creates a program "fakemake" that is a restricted version of make(1). 
  *  Like make, fakemake helps you automate compiling, but unlike make, fakemake
  *  limits itself to making one executable and assumes that you are using gcc 
  *  to do your compilation.
- *
- *  The syntax of fakemake:
- *     fakemake [ description-file ]
- *
- *     If no description file is specified, then fmakefile is assumed to be
- *     the description file.
 */
 
 #include <stdlib.h>
