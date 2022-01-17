@@ -1,4 +1,4 @@
-# Lab 2 (Buffering)
+# l2p1, l2p2, l2p3
 
 CS360: Systems Programming
 
