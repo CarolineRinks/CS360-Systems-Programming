@@ -5,7 +5,7 @@ CS360: Systems Programming
 -----------
 Description
 -----------
-This lab creates a program "fakemake" that is a restricted version of make(1). 
+The program "fakemake" is a restricted version of make(1). 
 Like make, fakemake helps you automate compiling, but unlike make, fakemake
 limits itself to making one executable and assumes that you are using gcc 
 to do your compilation.
