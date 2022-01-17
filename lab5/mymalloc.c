@@ -1,8 +1,6 @@
 /* Caroline Rinks
  * Lab 6 (malloc)
  * CS360 Fall 2021
- *
- * by keeping track of a list of free memory addresses.
 */ 
 
 #include <stdlib.h>
