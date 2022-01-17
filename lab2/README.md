@@ -1,4 +1,6 @@
-# lab2
+# Lab 2 (Buffering)
+
+Author: Caroline Rinks
 
 -----------
 Description
