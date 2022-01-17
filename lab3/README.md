@@ -11,6 +11,7 @@ limits itself to making one executable and assumes that you are using gcc
 to do your compilation.
  
 ex/ contains some files to test the program with.
+
 src/ contains the source code.
 
 ------
