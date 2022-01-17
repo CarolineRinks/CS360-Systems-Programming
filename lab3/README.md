@@ -1,6 +1,6 @@
 # Lab3
 
-Author: Caroline Rinks
+CS360: Systems Programming
 
 -----------
 Description
