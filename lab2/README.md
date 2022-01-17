@@ -1,6 +1,6 @@
 # Lab 2 (Buffering)
 
-Author: Caroline Rinks
+CS360: Systems Programming
 
 -----------
 Description
