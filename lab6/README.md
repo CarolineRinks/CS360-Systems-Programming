@@ -10,6 +10,10 @@ jsh is a command line interpreter that lets you execute commands and redirect
 file input and output by using the operations < , >, >>, & and |. This project
 was used to learn about processes, file redirection, and pipes.
 
+src/ contains the source code for the program.
+ex/ contains some files to use for testing the program.
+libfdr/ contains header files for double-linked lists, red-black trees, and input processing.
+
 ------
 Usage:
 ------
