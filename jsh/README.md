@@ -1,14 +1,14 @@
-# JSH (Shell)
+# jsh (Shell)
 
 CS360: Systems Programming
 
 ------------
 Description:
 ------------
-This program implements a shell, named "jsh".
+This program implements a shell, named jsh.
 jsh is a command line interpreter that lets you execute commands and redirect 
-file input and output by using the operations < , >, >>, & and |. This project
-was used to learn about processes, file redirection, and pipes.
+file input and output by using the operators < , >, >>, & and |. The purpose of this project
+was to learn about processes and communication between processes via pipes.
 
 src/ contains the source code for the program.
 
