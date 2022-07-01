@@ -1,4 +1,4 @@
-# Lab 4 (tarc and tarx)
+# tarc and tarx
 
 CS360: Systems Programming
 
