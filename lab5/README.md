@@ -1,4 +1,4 @@
-# Lab 5 (Mymalloc)
+# mymalloc
 
 CS360: Systems Programming
 
