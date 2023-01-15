@@ -8,7 +8,7 @@ Description
 The program tarc creates a tar file and works similarly to the command "tar cf".
 
 The program tarx recreates a directory from a tarfile, preserving protections and 
-modification times for each file.
+modification times for each file. It works similarly to the command "tar xf".
 
 src/ contains the source code for tarc and tarx.
 
